@@ -1,12 +1,8 @@
 # xcode-script
-Some scripts for xcode.
-
-
-
-Here is the list of scripts:
+Some scripts for xcode. Here is the list of scripts:
 
 | Script Name    | Describe                                                     |
-| -------------- | ------------------------------------------------------------ |
+| -------------- | :----------------------------------------------------------- |
 | app_bulid.sh   | Xcode automatic packaging, then upload ipa to [fir](https://fir.im/). |
 | xcode_clean.sh | Xcode data clean.                                            |
 
@@ -28,7 +24,7 @@ git clone https://github.com/wkjsos/xcode-script.git
 
 **app_bulid.sh configure:**
 
-1、replace all the **xxx** in **app_bulid.sh.
+1、replace all the **xxx** in app_bulid.sh.
 
 ```shell
 project_name=xxx
